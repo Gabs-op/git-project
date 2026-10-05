@@ -1,0 +1,24 @@
+:root {
+    --primary-color: rgb(119, 24, 24);
+    --secondary-color: rgb(233, 20, 20);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--secondary-color);
+}
+
+.header {
+    background-color: var(--primary-color);
+
+}
+
+.page-title {
+    color: #fff;
+    padding: 16px;
+    text-align: center;
+    font-size: 2rem;
+}
