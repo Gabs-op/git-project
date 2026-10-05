@@ -22,3 +22,10 @@ body {
     text-align: center;
     font-size: 2rem;
 }
+
+.main {
+    background-color: black;
+    padding: 16px;
+    color: #fff;
+    
+}
